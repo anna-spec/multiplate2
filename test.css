@@ -1,0 +1,23 @@
+.our_story .blue-content{
+    position: relative;
+    background-color: #63bcff;
+    height: 100%;
+    width: 31%;
+}
+
+.our_story img{
+    position: absolute;
+    top: 10%;
+    height: 80%;
+    left: 11%;
+    object-fit: cover;
+    width: 78%;
+}
+
+.left-content {
+
+    height: 100%;
+    width: 100%;
+
+
+}

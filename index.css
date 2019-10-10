@@ -1,0 +1,186 @@
+body{
+    padding: 50px;
+    font-family: 'OpenSans_Regular';
+    margin: 20px;
+}
+
+h4{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h5{
+    font-weight: 800;
+    font-size: 30px;
+
+}
+h6{
+
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+
+
+.nav-item {
+    font-size: 20px;
+    margin: 20px;
+   
+}
+
+.search_input{
+    display: none;
+}
+
+
+
+.container {
+    background-color: aliceblue;
+}
+
+
+
+.our_story .blue-content{
+    position: relative;
+    background-color: #63bcff;
+    height: 100%;
+    width: 31%;
+}
+
+.our_story img{
+    position: absolute;
+    top: 10%;
+    height: 80%;
+    left: 11%;
+    object-fit: cover;
+    width: 78%;
+}
+
+
+
+@font-face {
+    font-family: Muli;
+    src: url("./fonts/Muli-Regular.ttf");
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url("./fonts/MontserratAlternates-Regular.otf");
+}
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("./fonts/MontserratAlternates-Bold.otf");
+}
+@font-face {
+    font-family: NaishilaDancingScript;
+    src: url("./fonts/Naishila-Dancing-Script.ttf");
+}
+
+.box{
+    font-family: Muli;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    margin-top: 0px;
+    text-align: left;
+    color: #0e3032; 
+}
+.small{
+    font-family: 'proximanovacond-regular';
+      font-style: italic;
+      font-size: 24px;
+      font-weight: 100;
+      text-align: justify;
+      color: #000000;
+      margin-bottom: 40px; 
+}
+
+.Multiplate{
+
+    font-family: Georgia;
+    font-size: 39px;
+    font-weight: 800;
+    margin-top: 10px;
+    color: #162c28;
+  
+}
+.submit{
+    background-color: #ff9800 ;
+    padding: 18px 25px ;
+    font-size: 30px;
+    color: #fff; 
+}
+    
+.search{
+    float:right;
+    font-weight: 900;
+}
+
+
+
+
+.text_box{
+    margin-top: 70px;
+}
+
+
+
+
+.blue-content{
+   
+    background-color: #63bcff;
+    height: 470px;
+    width: 89%;
+    
+}
+
+
+
+.content_image2{
+    position: absolute;
+    left: 86px;
+    height: 80%;
+}
+
+
+
+.left-content {
+
+    height: 100%;
+    width: 100%;
+
+
+}
+
+
+.image {
+    height: 100%;
+    width: 100%;
+}
+
+.grading_system{
+    margin: 30px  auto;
+    text-align: center;
+
+}
+
+
+.system_item{
+    flex: 1;
+    box-shadow: 1.9px 6.7px 8px 0 rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    margin: 0 32px;
+    cursor: pointer;
+    padding: 20px;
+}
+
+.system_item:hover{
+    box-shadow: 3px 8px 10px 2px rgba(0, 0, 0, 0.3);
+    padding:  22px;
+    margin: 0 32px;
+}
